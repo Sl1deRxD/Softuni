@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\maraq\\source\\repos\\ExerciseDatаTypesАndVariables\\1.IntegerOperations\\1.IntegerOperations.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\maraq\\source\\repos\\ExerciseDatаTypesАndVariables\\1.IntegerOperations\\1.IntegerOperations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maraq\\source\\repos\\ExerciseDatаTypesАndVariables\\1.IntegerOperations\\1.IntegerOperations.csproj",
+        "projectName": "1.IntegerOperations",
+        "projectPath": "C:\\Users\\maraq\\source\\repos\\ExerciseDatаTypesАndVariables\\1.IntegerOperations\\1.IntegerOperations.csproj",
+        "packagesPath": "C:\\Users\\maraq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maraq\\source\\repos\\ExerciseDatаTypesАndVariables\\1.IntegerOperations\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\maraq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

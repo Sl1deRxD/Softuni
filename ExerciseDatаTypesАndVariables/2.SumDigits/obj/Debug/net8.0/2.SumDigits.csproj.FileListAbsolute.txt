@@ -1,0 +1,14 @@
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\2.SumDigits\bin\Debug\net8.0\2.SumDigits.exe
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\2.SumDigits\bin\Debug\net8.0\2.SumDigits.deps.json
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\2.SumDigits\bin\Debug\net8.0\2.SumDigits.runtimeconfig.json
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\2.SumDigits\bin\Debug\net8.0\2.SumDigits.dll
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\2.SumDigits\bin\Debug\net8.0\2.SumDigits.pdb
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\2.SumDigits\obj\Debug\net8.0\2.SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\2.SumDigits\obj\Debug\net8.0\2.SumDigits.AssemblyInfoInputs.cache
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\2.SumDigits\obj\Debug\net8.0\2.SumDigits.AssemblyInfo.cs
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\2.SumDigits\obj\Debug\net8.0\2.SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\2.SumDigits\obj\Debug\net8.0\2.SumDigits.dll
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\2.SumDigits\obj\Debug\net8.0\refint\2.SumDigits.dll
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\2.SumDigits\obj\Debug\net8.0\2.SumDigits.pdb
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\2.SumDigits\obj\Debug\net8.0\2.SumDigits.genruntimeconfig.cache
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\2.SumDigits\obj\Debug\net8.0\ref\2.SumDigits.dll

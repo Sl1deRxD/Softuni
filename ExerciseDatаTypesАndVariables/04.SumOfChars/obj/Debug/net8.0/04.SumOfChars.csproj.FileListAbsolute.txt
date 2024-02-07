@@ -1,0 +1,14 @@
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\04.SumOfChars\bin\Debug\net8.0\04.SumOfChars.exe
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\04.SumOfChars\bin\Debug\net8.0\04.SumOfChars.deps.json
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\04.SumOfChars\bin\Debug\net8.0\04.SumOfChars.runtimeconfig.json
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\04.SumOfChars\bin\Debug\net8.0\04.SumOfChars.dll
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\04.SumOfChars\bin\Debug\net8.0\04.SumOfChars.pdb
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\04.SumOfChars\obj\Debug\net8.0\04.SumOfChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\04.SumOfChars\obj\Debug\net8.0\04.SumOfChars.AssemblyInfoInputs.cache
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\04.SumOfChars\obj\Debug\net8.0\04.SumOfChars.AssemblyInfo.cs
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\04.SumOfChars\obj\Debug\net8.0\04.SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\04.SumOfChars\obj\Debug\net8.0\04.SumOfChars.dll
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\04.SumOfChars\obj\Debug\net8.0\refint\04.SumOfChars.dll
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\04.SumOfChars\obj\Debug\net8.0\04.SumOfChars.pdb
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\04.SumOfChars\obj\Debug\net8.0\04.SumOfChars.genruntimeconfig.cache
+C:\Users\maraq\source\repos\ExerciseDatаTypesАndVariables\04.SumOfChars\obj\Debug\net8.0\ref\04.SumOfChars.dll
